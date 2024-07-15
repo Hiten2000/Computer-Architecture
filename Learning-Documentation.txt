@@ -14,13 +14,13 @@ The CPU Visual Simulator can be accessed at https://cpuvisualsimulator.github.io
 
 Summary of Content:
 
-The CPU Visual Simulator is an excellent teaching tool that gives us a thorough understanding of how a CPU functions. It provides you with a visual depiction of the internal processes of the CPU. You can enter code and observe the CPU's step-by-step processing of it.
+The CPU Visual Simulator is an excellent teaching tool that gives us a thorough understanding of how a CPU functions. It provides us with a visual depiction of the internal processes of the CPU. We can enter code and observe the CPU's step-by-step processing of it.
 
 
 Key Takeaways:
 
 It Demonstrates the interactions between the various CPU components when executing commands.
-Let's input the assembly instructions and observe the changes in the CPU's state.
+It Lets us input the assembly instructions and observe the changes in the CPU's state.
 Excellent for teaching assembly language and CPU architecture.
 
 
@@ -32,7 +32,7 @@ It's a fantastic tool for computer science instructors and students.
 
 Feedback and Reflection:
 
-The interface is straightforward and easy to use, but more tutorials or guides would be nice.
+The interface is straightforward to use, but more tutorials or guides would be nice.
 Adding advanced features or real-world CPU models could make it even better.
 Being able to save and share simulations would be super helpful for group projects.
 
