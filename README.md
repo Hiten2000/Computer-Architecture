@@ -1,4 +1,4 @@
-# Learning-Documentation (all the pdf files will diplay inside the Github itself)
+# Learning-Documentation (All the pdf files will diplay inside the Github itself)
 So here I will be documenting the steps involved for this particular assignment:
 I started with the links provided and searched them up and tried to understand them. Then I took help from google to understand more about the simulation and continued with the given links.
 After that, I followed the Assignment rubrics and then learnt how to set up Github.
